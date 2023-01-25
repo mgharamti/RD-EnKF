@@ -33,5 +33,5 @@ which was submitted to Monthly Weather Review.
 - *rh.m:* Finds ensemble bins to plot rank histograms
 
 ### Other Files: 
-`RouteLink.nc` Containing network geometry for WRF-Hydro & `Fig*.pdf`  
+`RouteLink.nc` containing network geometry for WRF-Hydro & all other figures `Fig*.pdf`  
 
