@@ -23,10 +23,13 @@ which was submitted to Monthly Weather Review.
     - *gen_Fig_11.m:* Generates hydrographs comparing EnKF and RD-EnKF at three different gauge locations
     - *gen_Fig_12.m:* Generates CRPSS boxplot summary for all gauges
 
-## Utility Functions:
-    - *HydroDARTdiags.m:* An all purpose diagnostic function to HydroDART (generates hydrograph, maps, etc)
-    - *gauges_2_indices_subset.m:* A utility function to read gauge IDs and their associated DART indicies
-    - *obs_increment_eakf.m:* Computes observation increments for the analysis
-    - *move_forward.m:* Integrates the scalar model forward in time
-    - *rh.m:* Finds ensemble bins to plot rank histograms
+### Utility Functions:
+- *HydroDARTdiags.m:* An all purpose diagnostic function to HydroDART (generates hydrograph, maps, etc)
+- *gauges_2_indices_subset.m:* A utility function to read gauge IDs and their associated DART indicies
+- *obs_increment_eakf.m:* Computes observation increments for the analysis
+- *move_forward.m:* Integrates the scalar model forward in time
+- *rh.m:* Finds ensemble bins to plot rank histograms
+
+### Other Files: 
+`RouteLink.nc` Containing network geometry for WRF-Hydro & `Fig*.pdf`  
 
