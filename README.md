@@ -34,4 +34,5 @@ which was submitted to Monthly Weather Review.
 
 ### Other Files: 
 `RouteLink.nc` containing network geometry for WRF-Hydro & all other figures `Fig*.pdf`  
+**HydroDART** (WRF-Hydro+DART) Python and Shell scripts using the main DART repo [here](https://github.com/NCAR/DART/tree/main/models/wrf_hydro).
 
