@@ -1,4 +1,6 @@
-# RD-EnKF manuscript: El Gharamti, MWR (2023) [![DOI](https://sandbox.zenodo.org/badge/593033226.svg)](https://sandbox.zenodo.org/badge/latestdoi/593033226)
+[![DOI](https://sandbox.zenodo.org/badge/593033226.svg)](https://sandbox.zenodo.org/badge/latestdoi/593033226)
+
+# RD-EnKF manuscript: El Gharamti, MWR (2023) 
 
 ![rd_enkf_cartoon](https://user-images.githubusercontent.com/35781176/214481920-2f337b60-e31e-4457-8098-74c439858a88.png)
 
